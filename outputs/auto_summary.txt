@@ -1,0 +1,6 @@
+- Louvain modularity — Facebook: 0.8349, Higgs: 0.8048.
+- Facebook communities: 16 (largest=548, median=231).
+- Higgs communities: 13376 (largest=20965, median=2).
+- LT diffusion (random θ): Facebook final active=1222 in 30 steps; Higgs final active=14 in 2 steps.
+- Sensitivity (Facebook): adoption drops as θ increases; seeding by degree/PageRank outperforms random (see figure).
+- Community-aware seeding improves coverage across modules and can match or beat global top-degree for moderate θ.

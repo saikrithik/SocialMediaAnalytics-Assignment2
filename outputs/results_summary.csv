@@ -1,0 +1,3 @@
+dataset,nodes,edges,louvain_modularity,communities,largest_comm,median_comm,final_active,diffusion_steps
+facebook_ego,4039,88234,0.8349,16,548,231,1222,30
+higgs_retweet,256491,328132,0.8048,13376,20965,2,14,2
